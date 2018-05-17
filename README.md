@@ -385,7 +385,7 @@ All your code for TODO 5, TODO 6 and TODO 7 will go _within_ the code block of t
 
 #### TODO 5 : Access The Current Circle from the Circles Array
 
-Use the Array syntax to pull out the circle at index `i`.
+The fastest way to make all of our circles move is by **Iterating** over our array. We can do this by using Bracket Notation to pull out the circle at index `i` from the `circles` array and store it in a variable which we call `circle`.
 
 Arrays are _zero-indexed_ lists of objects.  Basically, an Array acts as a container, into which we can throw objects, like strings, numbers, or circles. We call the things we throw into Arrays, _items_ or _elements_, as in, the _elements_ of our Array.
 
